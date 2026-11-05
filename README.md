@@ -83,4 +83,4 @@ More in the [`ai-internship`](https://github.com/habibur-rehman27/ai-internship)
 
 I'm always happy to talk about AI, backend development or internship opportunities.
 
-📧 habibhr112211@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/habib-rehman-827753347)
+📧 habibhr112211@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/habib-ur-rehman27/)
