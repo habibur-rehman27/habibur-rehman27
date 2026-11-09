@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <a href="https://habib-ur-rehman27.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
  <a href="https://www.linkedin.com/in/habib-ur-rehman27/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
  <a href="https://mail.google.com/mail/?view=cm&to=habibhr112211@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> 
 </p>
@@ -83,4 +84,4 @@ More in the [`ai-internship`](https://github.com/habibur-rehman27/ai-internship)
 
 I'm always happy to talk about AI, backend development or internship opportunities.
 
-📧 habibhr112211@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/habib-ur-rehman27/)
+📧 habibhr112211@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/habib-ur-rehman27/) · 🌐 [Portfolio](https://habib-ur-rehman27.vercel.app)
